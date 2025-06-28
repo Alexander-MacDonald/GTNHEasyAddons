@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.bapey.gtnheasyaddons;
 
 import java.io.File;
 

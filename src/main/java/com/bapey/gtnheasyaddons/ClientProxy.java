@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.bapey.gtnheasyaddons;
 
 public class ClientProxy extends CommonProxy {
 
